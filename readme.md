@@ -27,48 +27,29 @@
 ## About
 A Persistent Whole Map Mission for MP co-op, focused on Resistance, Infantry and Guerrilla Tactics.
 
-## Project Status
+## Antistasi Community Project Status
 Master Branch: [![Build Status](https://travis-ci.com/official-antistasi-community/A3-Antistasi.svg?branch=master)](https://travis-ci.com/official-antistasi-community/A3-Antistasi)  
 Unstable Branch: [![Build Status](https://travis-ci.com/official-antistasi-community/A3-Antistasi.svg?branch=unstable)](https://travis-ci.com/official-antistasi-community/A3-Antistasi)
 
 ## Grab our latest release on Steam!
 ### [Mission Files](https://steamcommunity.com/id/OfficialAntiStasiCommunity/myworkshopfiles/)
 - Altis
-    - [Steam Workshop: 1832638103](https://steamcommunity.com/sharedfiles/filedetails/?id=1832638103)
+    - [Steam Workshop: 2601853990](https://steamcommunity.com/sharedfiles/filedetails/?id=2601853990)
 - Tanoa
-    - [Steam Workshop: 1832685459](https://steamcommunity.com/sharedfiles/filedetails/?id=1832685459)
+    - [Steam Workshop: 2601860392](https://steamcommunity.com/sharedfiles/filedetails/?id=2601860392)
 - Malden
-    - [Steam Workshop: 1850103246](https://steamcommunity.com/sharedfiles/filedetails/?id=1850103246)
-- Livonia
-    - [Steam Workshop: 1850107049](https://steamcommunity.com/sharedfiles/filedetails/?id=1850107049)
+    - [Steam Workshop: 2601859103](https://steamcommunity.com/sharedfiles/filedetails/?id=2601859103)
 - Chernarus Summer
-    - [Steam Workshop: 1833035777](https://steamcommunity.com/sharedfiles/filedetails/?id=1833035777)
+    - [Steam Workshop: 2601864028](https://steamcommunity.com/sharedfiles/filedetails/?id=2601864028)
 - Chernarus Winter
-    - [Steam Workshop: 1959942769](https://steamcommunity.com/sharedfiles/filedetails/?id=1959942769)
-- Anizay
-    - [Steam Workshop: 1959965492](https://steamcommunity.com/sharedfiles/filedetails/?id=1959965492)
-- Kunduz
-    - [Steam Workshop: 1959971214](https://steamcommunity.com/sharedfiles/filedetails/?id=1959971214)
-- Tembelan Island
-    - [Steam Workshop: 1959976706](https://steamcommunity.com/sharedfiles/filedetails/?id=1959976706)
-- Virolahti
-    - [Steam Workshop: 2178424367](https://steamcommunity.com/sharedfiles/filedetails/?id=2178424367)
+    - [Steam Workshop: 2601866229](https://steamcommunity.com/sharedfiles/filedetails/?id=2601866229)
 - Sahrani
-    - [Steam Workshop: 2431325805](https://steamcommunity.com/sharedfiles/filedetails/?id=2431325805)
+    - [Steam Workshop: 2601868045](https://steamcommunity.com/sharedfiles/filedetails/?id=2601868045)
 - Takistan
-    - [Steam Workshop: 2431332218](https://steamcommunity.com/sharedfiles/filedetails/?id=2431332218)
-- Altis Blufor (discontinued)
-    - [Steam Workshop: 1832665647](https://steamcommunity.com/sharedfiles/filedetails/?id=1832665647)
-- Altis 1.9 Community Version (discontinued)
-    - [Steam Workshop: 1832910657](https://steamcommunity.com/sharedfiles/filedetails/?id=1832910657)
-
-### [Suggested Modlists](https://steamcommunity.com/id/OfficialAntiStasiCommunity/myworkshopfiles/?section=collections)
-- Vanilla
-    - [Steam Workshop: 1833674441](https://steamcommunity.com/sharedfiles/filedetails/?id=1833674441)
-- RHS Collection
-    - [Steam Workshop: 1833668872](https://steamcommunity.com/sharedfiles/filedetails/?id=1833668872)
-- 3CB Collection
-    - [Steam Workshop: 1834976313](https://steamcommunity.com/sharedfiles/filedetails/?id=1834976313)
+    - [Steam Workshop: 2601869031](https://steamcommunity.com/sharedfiles/filedetails/?id=2601869031)
+- Cam Lao Nam
+    - [Steam Workshop: 2601900612](https://steamcommunity.com/sharedfiles/filedetails/?id=2601900612)
+- Anizay, Kunduz, Tembelan Island and Virolahti are available on here as PBOs in the Release Section
 
 ## Features:
 
@@ -85,7 +66,7 @@ Unstable Branch: [![Build Status](https://travis-ci.com/official-antistasi-commu
 - AI friendlies and enemy can drag/carry and heal injured soldiers, not working with ACE3 mod.
 - AI Garrisons that use static weapon you add.
 - Supports up to 3 Headless Clients.
-- Integrated Mods: [TFAR](https://steamcommunity.com/sharedfiles/filedetails/?id=620019431), [ACRE](https://steamcommunity.com/sharedfiles/filedetails/?id=751965892), [RHS: AFRF, USAF and GREF](https://steamcommunity.com/workshop/filedetails/?id=843770737), [3CB](https://steamcommunity.com/sharedfiles/filedetails/?id=1834976313), [GRAD Trenches](https://steamcommunity.com/sharedfiles/filedetails/?id=1224892496&searchtext=grad+trenches), [ACE](https://steamcommunity.com/sharedfiles/filedetails/?id=463939057) or, to keep the unique features of AI that would be disabled with ACE medical system: [ACE no medical](https://steamcommunity.com/sharedfiles/filedetails/?id=2158809703). None of them mandatory.
+- Mandalorian Workshop, Build Droids from Scavenged Parts or Vehicles for Money
 
 ### How to build from GIT -PowerShell
 - Download ZIP file
@@ -100,4 +81,4 @@ Unstable Branch: [![Build Status](https://travis-ci.com/official-antistasi-commu
 - Follow [Getting Started](https://github.com/official-antistasi-community/A3-Antistasi/wiki/Build-With-ADD)
 
 ### Known Issues:
-For a list of known issues, please see the [Issues on Github](https://github.com/official-antistasi-community/A3-Antistasi/issues).
+For a list of known issues, please see the [Issues on Github](https://github.com/stutpip123/antistasi-clone-wars/issues).
