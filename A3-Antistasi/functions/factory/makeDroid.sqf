@@ -21,6 +21,7 @@ switch (_droidType) do
 	// case "": {};
 	case "ls_ground_aat_black": {moneyRequired = 40000, partsRequired = 0, droidDescription = "Didn't yoda fuck 3 of these up at once?"};
 	case "3as_ParticleCannon": {moneyRequired = 25000, partsRequired = 0, droidDescription = "what does this even do"};
+	case "3as_FlakCannon": {moneyRequired = 25000, partsRequired = 0, droidDescription = "starfighter? where?"};
 	case "3AS_FieldCannon": {moneyRequired = 30000, partsRequired = 0, droidDescription = "try not to kill the cows eating grass"};
 };
 
@@ -43,6 +44,7 @@ _vehicleArray =
 	"3as_LAAT_Mk1",
 	"ls_ground_aat_black",
 	"3as_ParticleCannon",
+	"3as_FlakCannon",
 	"3AS_FieldCannon"
 ];
 
