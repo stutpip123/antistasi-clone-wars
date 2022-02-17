@@ -16,6 +16,7 @@ _whitelistedDroids =
 	"3as_LAAT_Mk1",
 	"ls_ground_aat_black",
 	"3as_ParticleCannon",
+	"3as_FlakCannon",
 	"3AS_FieldCannon"
 ];
 
@@ -56,9 +57,10 @@ while {true} do
 		// case "": {};
 		case "ls_ground_aat_black": {moneyRequired = 40000, partsRequired = 0, droidDescription = "Didn't yoda fuck 3 of these up at once?"};
 		case "3as_ParticleCannon": {moneyRequired = 25000, partsRequired = 0, droidDescription = "what does this even do"};
+		case "3as_FlakCannon": {moneyRequired = 25000, partsRequired = 0, droidDescription = "starfighter? where?"};
 		case "3AS_FieldCannon": {moneyRequired = 30000, partsRequired = 0, droidDescription = "try not to kill the cows eating grass"};
 	};
-	vehicleArray = ["CW_Ifrit_Mando_HMG", "CW_Ifrit_Mando", "k_CIS_Droideka", "ls_heli_laatle_transportGunship", "3as_arc_170_razor", "3as_LAAT_Mk1", "3as_LAAT_Mk2", "ls_ground_aat_black", "3AS_FieldCannon", "3as_ParticleCannon"];
+	vehicleArray = ["CW_Ifrit_Mando_HMG", "CW_Ifrit_Mando", "k_CIS_Droideka", "ls_heli_laatle_transportGunship", "3as_arc_170_razor", "3as_LAAT_Mk1", "3as_LAAT_Mk2", "ls_ground_aat_black", "3AS_FieldCannon", "3as_FlakCannon", "3as_ParticleCannon"];
 	_picture = getText (configFile >> "cfgVehicles" >> _droidType >> "editorPreview");
 	_description = getText (configFile >> "cfgVehicles" >> _droidType >> "role");
 	ctrlSetText [1200, _picture];
