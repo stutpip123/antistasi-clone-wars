@@ -59,8 +59,8 @@
 private _initialRebelEquipment = [
 "SWLW_Westar35SA",
 "SWLW_westar35c","SWLW_Westar35S",
-"ls_weapon_rps6",
-"SWLW_Westar35S_Mag","SWLW_westar35c_Mag","SWLW_westar35sa_Mag","ls_mag_rpg_1rnd","3AS_ThermalDetonator","SmokeShell",
+"3AS_RPS6_F",
+"SWLW_Westar35S_Mag","SWLW_westar35c_Mag","SWLW_westar35sa_Mag","3AS_ThermalDetonator","SmokeShell",
 "ls_mandalorian_standard_backpack","ls_mandalorian_light_backpack","ls_mandalorian_demo_backpack","ls_mandalorian_heavy_backpack","ls_mandalorian_medic_backpack",
 "ls_mandalorian_traditional_vest",
 "ls_mandalorian_traditional_helmet",
